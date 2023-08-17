@@ -1,0 +1,3 @@
+Para correr o código basta executar todas as células do main.ipynb. Fizemos a Exploratory Data Analysis num ficheiro separado chamado "EDA.ipynb", para a correr basta executar todas as células.
+
+Enviamos uma pasta chamada "Plots" com ficheiros .png e .txt com os outputs das funções que utilizamos para determinar o número de cluster utilizados para cada caso (que se encontram comentadas no main.ipynb). Isto deve-se ao tempo necessário para correr as mesmas.
